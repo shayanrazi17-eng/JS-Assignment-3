@@ -169,5 +169,22 @@ document.writeln(
 
 
 
+// 15) var drop = ["Apple","Samsung","Motorola","Nokia","Sony"," Haier"];
+// document.writeln(
+//     `
+//     <h3> Phone manufacturers </h3>
+//     <select id="phoneSelect">
+// <option> ${drop[0]} </option> 
+// <option> ${drop[1]} </option> 
+// <option> ${drop[2]} </option> 
+// <option> ${drop[3]} </option> 
+// <option> ${drop[4]} </option> 
+// <option> ${drop[5]} </option> 
+//     </select>
+//     `
+// )
+// document.getElementById("phoneSelect").style.width = "169px";
+
+
 
 
